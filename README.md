@@ -14,6 +14,7 @@ Objektive und praxisnahe Bewertung von Voice Cloning Ausgaben (Eigenaufnahmen �
 - `results/` – Ergebnisse der Evaluation im JSON Format
 - `data/` – Referenz- und Klonaufnahmen
 - `convert_audio.py` – Konvertierung der Audiodateien
+- `requirements.txt` – Benötigte Python Bibliotheken
   
 ---
 
