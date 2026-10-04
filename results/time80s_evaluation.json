@@ -1,0 +1,26 @@
+{
+  "candidate_1": {
+    "file": "..\\data\\wav\\synthetic\\Ting_80s_time0.wav",
+    "mcd_dtw_sl": 3.349,
+    "secs_cosine": 0.143,
+    "f0_rmse_hz": 91.058,
+    "f0_corr": 0.863,
+    "duration_diff_sec": 0.348
+  },
+  "candidate_2": {
+    "file": "..\\data\\wav\\synthetic\\Ting_80s_time1.wav",
+    "mcd_dtw_sl": 3.319,
+    "secs_cosine": 0.202,
+    "f0_rmse_hz": 65.367,
+    "f0_corr": -0.312,
+    "duration_diff_sec": 0.023
+  },
+  "candidate_3": {
+    "file": "..\\data\\wav\\synthetic\\Ting_80s_time2.wav",
+    "mcd_dtw_sl": 4.365,
+    "secs_cosine": 0.264,
+    "f0_rmse_hz": 91.048,
+    "f0_corr": 0.911,
+    "duration_diff_sec": 0.348
+  }
+}

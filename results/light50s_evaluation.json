@@ -1,0 +1,26 @@
+{
+  "candidate_1": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_light0.wav",
+    "mcd_dtw_sl": 3.9778247762783576,
+    "secs_cosine": 0.32821476459503174,
+    "f0_rmse_hz": 112.57732742950387,
+    "f0_corr": 0.3241522400703151,
+    "duration_diff_sec": 0.23219954648526078
+  },
+  "candidate_2": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_light1.wav",
+    "mcd_dtw_sl": 4.052050876986013,
+    "secs_cosine": 0.3590315878391266,
+    "f0_rmse_hz": 61.97209304411667,
+    "f0_corr": -0.5219647272500448,
+    "duration_diff_sec": 0.06965986394557823
+  },
+  "candidate_3": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_light2.wav",
+    "mcd_dtw_sl": 3.870105442666408,
+    "secs_cosine": 0.3374783992767334,
+    "f0_rmse_hz": 106.4578077068946,
+    "f0_corr": -0.16598702249509498,
+    "duration_diff_sec": 0.3250793650793651
+  }
+}

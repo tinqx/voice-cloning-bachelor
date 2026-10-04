@@ -1,0 +1,26 @@
+{
+  "candidate_1": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_calendar0.wav",
+    "mcd_dtw_sl": 4.534,
+    "secs_cosine": 0.361,
+    "f0_rmse_hz": 57.319,
+    "f0_corr": 0.578,
+    "duration_diff_sec": 0.836
+  },
+  "candidate_2": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_calendar1.wav",
+    "mcd_dtw_sl": 3.481,
+    "secs_cosine": 0.319,
+    "f0_rmse_hz": 60.98,
+    "f0_corr": 0.568,
+    "duration_diff_sec": 0.488
+  },
+  "candidate_3": {
+    "file": "..\\data\\wav\\synthetic\\Ting_50s_calendar2.wav",
+    "mcd_dtw_sl": 3.874,
+    "secs_cosine": 0.245,
+    "f0_rmse_hz": 70.057,
+    "f0_corr": 0.561,
+    "duration_diff_sec": 0.07
+  }
+}
