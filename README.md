@@ -1,6 +1,7 @@
 # Voice-Clone Evaluation (Tortoise TTS & OpenVoice)
 
-Dieses Repository enthält den praktischen Teil der Bachelorarbeit zum Thema Voice Cloning und Sprachassistenten.
+Dieses Repository enthält den praktischen Teil der Bachelorarbeit zum Thema Voice Cloning und Sprachassistenten. 
+Für die Generierung der Sprachaufnahmen werden die bestehenden Open Source Projekte Tortoise TTS und OpenVoice verwendet.
 Objektive und praxisnahe Bewertung von Voice Cloning Ausgaben (Eigenaufnahmen → Klon → Metriken → HomePod Tests). 
 
 **Implementierungsbasis:** https://github.com/neonbjb/tortoise-tts
@@ -15,6 +16,7 @@ Objektive und praxisnahe Bewertung von Voice Cloning Ausgaben (Eigenaufnahmen �
 - `data/` – Referenz- und Klonaufnahmen
 - `convert_audio.py` – Konvertierung der Audiodateien
 - `requirements.txt` – Benötigte Python Bibliotheken
+- `benchmark_presets.py` – Tortoise TTS Preset Vergleich
   
 ---
 
