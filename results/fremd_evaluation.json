@@ -1,0 +1,10 @@
+{
+  "candidate_1": {
+    "file": "..\\data\\wav\\synthetic\\HietzingerKai.wav",
+    "mcd_dtw_sl": 14.462,
+    "secs_cosine": -0.002,
+    "f0_rmse_hz": 86.126,
+    "f0_corr": 0.806,
+    "duration_diff_sec": 0.023
+  }
+}

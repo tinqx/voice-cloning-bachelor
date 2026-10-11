@@ -1,0 +1,10 @@
+{
+  "candidate_1": {
+    "file": "..\\data\\wav\\synthetic\\original_calendar.wav",
+    "mcd_dtw_sl": 0.0,
+    "secs_cosine": 1.0,
+    "f0_rmse_hz": 0.0,
+    "f0_corr": 1.0,
+    "duration_diff_sec": 0.0
+  }
+}
